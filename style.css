@@ -1,0 +1,39 @@
+.color-red
+{
+	color: #F00;
+}
+
+.color-blue
+{
+	color: #00F;
+}
+
+.color-yellow
+{
+	color: #FF0;
+}
+
+.color-green
+{
+	color: #0F0;
+}
+
+.bg-red
+{
+	background-color: #F00;
+}
+
+.bg-blue
+{
+	background-color: #00F;
+}
+
+.bg-yellow
+{
+	background-color: #FF0;
+}
+
+.bg-green
+{
+	background-color: #0F0;
+}
